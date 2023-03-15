@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CompareChallenges": {
+      "commandName": "Project",
+      "commandLineArgs": "modern-challenge-32-2023-03-1012529548 modern-challenge-32-2023-03-1112529558 modern-showcase-challenge-2023-03-1112529524"
+    }
+  }
+}
